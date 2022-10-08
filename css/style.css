@@ -14,7 +14,7 @@ body {
 	font-size:14px;
 	font-weight:300;
 	line-height:1.6em;
-	color:#656565;
+	color:#050505;
 }
 
 a:active {
@@ -504,7 +504,7 @@ section.callaction {
 ==================================== */
 
 #inner-headline{
-	background: #0E987E;
+	background: #161a19;
 	position:relative;
 	margin:0;
 	padding:0;
@@ -981,7 +981,7 @@ ul.link-list li{
 	list-style:none;
 }
 footer{
-background: #046E5A;
+background: #161a19;
 }
 footer ul.link-list li a{
 	color:#fff;
@@ -1216,7 +1216,7 @@ border: 1px solid #e6e6e6;
 
 .pricing-box-item .pricing-terms {
 	text-align: center;
-	background: #0E987E;
+	background: #161a19;
 	display: block;
 	overflow: hidden;
 	padding: 11px 0 5px; 
@@ -1335,7 +1335,7 @@ ul.social-network li {
 	padding:0;
 	padding-top:30px;
 	margin:20px 0 0 0;
-	background: #002821;
+	background: #161a19;
 }
 
 #sub-footer p{

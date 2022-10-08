@@ -311,7 +311,7 @@ height:100%;
 left:0px; 
 }
 .flex-direction-nav .flex-next{ 
-right:0px;
+right:0px; 
 }
 .flex-caption {zoom: 1;
 bottom: 35px; background-color: transparent; color: #fff; margin: 0; padding: 25px 25px 25px 30px; position: absolute; left: 10%; right:0px; }
